@@ -2,13 +2,23 @@
 
 ###
 
-<p align="left">Desenvolvedora em formação e futura cientista de dados, movida por curiosidade, criatividade e a vontade de transformar ideias em soluções reais. Tenho paixão por tecnologia, games, artesanato, animais e todo o universo geek que desperta a imaginação.<br><br> Atualmente estou me aprofundando em análise de dados, aprendizado de máquina e inteligência artificial, com foco especial em Python, minha linguagem de estudo mais frequente. Tive a oportunidade de colaborar em projetos de desenvolvimento com amigos, atuando em testes e depuração de aplicações. Apesar da minha jornada ter começado no desenvolvimento web, foi no mundo dos dados que encontrei meu caminho.<br><br>Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas e membro ativa da comunidade Impressionadora da Hashtag Treinamentos, sempre buscando aprender mais, evoluir e descobrir novas formas de criar impacto.<br>
+<p align="left">Desenvolvedora em formação e futura cientista de dados, movida por curiosidade, criatividade e a vontade de transformar ideias em soluções reais. Tenho paixão por tecnologia, games, artesanato, animais e todo o universo geek que desperta a imaginação.<br>
+  
+  <br> Atualmente estou me aprofundando em análise de dados, aprendizado de máquina e inteligência artificial, com foco especial em Python, minha linguagem de estudo mais frequente. Tive a oportunidade de colaborar em projetos de desenvolvimento com amigos, atuando em testes e depuração de aplicações. Apesar da minha jornada ter começado no desenvolvimento web, foi no mundo dos dados que encontrei meu caminho.<br>
+  
+  <br>Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas e membro ativa da comunidade Impressionadora da Hashtag Treinamentos, sempre buscando aprender mais, evoluir e descobrir novas formas de criar impacto.<br>
 
-Bem-vindos ao meu espaço!
-Espero que possamos construir coisas incríveis juntos.<br>
+<br>Bem-vindos ao meu espaço!<br>
+<br>Espero que possamos construir coisas incríveis juntos.<br>
 
-<br>In English:<br>A developer in training and future data scientist, driven by curiosity, creativity, and the desire to turn ideas into real solutions. I’m passionate about technology, games, crafts, animals, and the whole geek universe that sparks imagination.<br>I’m currently diving deep into data analysis, machine learning, and artificial intelligence, with a special focus on Python, the language I study the most. I’ve had the opportunity to collaborate on development projects with friends, working on testing and debugging applications. Although my journey began in web development, it was in the world of data that I truly found my path.<br>I’m a 4th-semester Systems Analysis and Development student and an active member of the Impressionadora community by Hashtag Treinamentos, always seeking to learn more, grow, and discover new ways to make an impact.<br>Welcome to my space!
-I hope we can build amazing things together.</p>
+<br>In English:<br><br>A developer in training and future data scientist, driven by curiosity, creativity, and the desire to turn ideas into real solutions. I’m passionate about technology, games, crafts, animals, and the whole geek universe that sparks imagination.<br>
+
+<br>I’m currently diving deep into data analysis, machine learning, and artificial intelligence, with a special focus on Python, the language I study the most. I’ve had the opportunity to collaborate on development projects with friends, working on testing and debugging applications. Although my journey began in web development, it was in the world of data that I truly found my path.<br>
+
+<br>I’m a 4th-semester Systems Analysis and Development student and an active member of the Impressionadora community by Hashtag Treinamentos, always seeking to learn more, grow, and discover new ways to make an impact.<br>
+
+<br>Welcome to my space!<br>
+<br>I hope we can build amazing things together<br>.</p>
 
 ###
 
