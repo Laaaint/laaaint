@@ -24,11 +24,64 @@
 
 ###
 
+<!-- Mario Header -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" height="200" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250" />
 </p>
 
-<h2 align="center">It's-a me, Natália! 🍄</h2>
+<h1 align="center">Hi! I'm Natália Rosa 🍄</h1>
+
+<p align="center">
+  <b>Data Analyst | Fullstack Developer | Tech Enthusiast</b>
+</p>
+
+---
+
+## 🎮 About Me
+- Passionate about technology, data and beautiful UI  
+- Love creating modern interfaces and smart solutions  
+- Always learning and improving  
+
+---
+
+## 🧠 Skills
+
+### 🚀 Programming Languages
+| Language | Level |
+|---------|--------|
+| ![JS](https://img.icons8.com/color/48/javascript.png) | ⭐⭐⭐⭐☆ |
+| ![TS](https://img.icons8.com/color/48/typescript.png) | ⭐⭐⭐⭐☆ |
+| ![Python](https://img.icons8.com/color/48/python.png) | ⭐⭐⭐⭐⭐ |
+| ![SQL](https://img.icons8.com/?size=48&id=13406&format=png) | ⭐⭐⭐⭐☆ |
+
+---
+
+### 🔋 Skill Progress
+**JavaScript**
+<div><img src="https://progress-bar.dev/85/?title=JS" /></div>
+
+**TypeScript**
+<div><img src="https://progress-bar.dev/70/?title=TS" /></div>
+
+**React**
+<div><img src="https://progress-bar.dev/80/?title=React" /></div>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=laaaint&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaaint&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🕹 Fun Section
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" height="200" />
+  <br>
+  <em>Keep learning and leveling up! 🚀</em>
+</p>
 
 
 ###
