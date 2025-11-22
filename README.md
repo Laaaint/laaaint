@@ -25,20 +25,9 @@
 ###
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/198402511-b01e3b6f-6f96-499c-85ac-b72e3995f3b9.gif" alt="Mario Bros Animation">
+  <img src="https://media.giphy.com/media/l0IylQoRX88N72pDYy/giphy.gif" alt="Mario and Yoshi Animation">
 </p>
-
 ---
-
-### 🔋 Skill Progress
-**JavaScript**
-<div><img src="https://progress-bar.dev/85/?title=JS" /></div>
-
-**TypeScript**
-<div><img src="https://progress-bar.dev/70/?title=TS" /></div>
-
-**React**
-<div><img src="https://progress-bar.dev/80/?title=React" /></div>
 
 ---
 
