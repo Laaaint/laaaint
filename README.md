@@ -23,14 +23,7 @@
 <br>I hope we can build amazing things together.<br></p>
 
 ###
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-56154483-97a7-4355-9344-3198077187d1.gif" alt="Mario Chasing Mushroom">
-</p>
 ---
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=laaaint&show_icons=true&theme=radical" />
