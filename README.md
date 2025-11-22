@@ -25,7 +25,7 @@
 ###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0IylQoRX88N72pDYy/giphy.gif" alt="Mario and Yoshi Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-56154483-97a7-4355-9344-3198077187d1.gif" alt="Mario Chasing Mushroom">
 </p>
 ---
 
