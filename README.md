@@ -20,39 +20,13 @@
 <br>I’m a 4th-semester Systems Analysis and Development student and an active member of the Impressionadora community by Hashtag Treinamentos, always seeking to learn more, grow, and discover new ways to make an impact.<br>
 
 <br>Welcome to my space!<br>
-<br>I hope we can build amazing things together<br>.</p>
+<br>I hope we can build amazing things together.<br></p>
 
 ###
 
-<!-- Mario Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/198402511-b01e3b6f-6f96-499c-85ac-b72e3995f3b9.gif" alt="Mario Bros Animation">
 </p>
-
-<h1 align="center">Hi! I'm Natália Rosa 🍄</h1>
-
-<p align="center">
-  <b>Data Analyst | Fullstack Developer | Tech Enthusiast</b>
-</p>
-
----
-
-## 🎮 About Me
-- Passionate about technology, data and beautiful UI  
-- Love creating modern interfaces and smart solutions  
-- Always learning and improving  
-
----
-
-## 🧠 Skills
-
-### 🚀 Programming Languages
-| Language | Level |
-|---------|--------|
-| ![JS](https://img.icons8.com/color/48/javascript.png) | ⭐⭐⭐⭐☆ |
-| ![TS](https://img.icons8.com/color/48/typescript.png) | ⭐⭐⭐⭐☆ |
-| ![Python](https://img.icons8.com/color/48/python.png) | ⭐⭐⭐⭐⭐ |
-| ![SQL](https://img.icons8.com/?size=48&id=13406&format=png) | ⭐⭐⭐⭐☆ |
 
 ---
 
@@ -72,15 +46,6 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=laaaint&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaaint&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🕹 Fun Section
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" height="200" />
-  <br>
-  <em>Keep learning and leveling up! 🚀</em>
 </p>
 
 
