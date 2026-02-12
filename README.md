@@ -69,7 +69,7 @@ Meu objetivo é evoluir como desenvolvedora full-stack em times onde tecnologia 
 <br>Bem-vindos ao meu espaço!<br>
 <br>Espero que possamos construir coisas incríveis juntos.<br>
 
-<br>In English: Hi! I'm Natália Rosa!<br>
+<h2>In English: Hi! I'm Natália Rosa!</h2>
 
 <br>Full-Stack Developer in progress, passionate about building product-driven applications that combine clean architecture, performance, and user experience.
 
@@ -142,7 +142,7 @@ Git | GitHub | REST APIs | SQL | Clean Code | Agile
   
   <li>Performance optimization</li>
 </ul>
-###
+
 
 <h2>📫 Let's Connect!</h2>
 
