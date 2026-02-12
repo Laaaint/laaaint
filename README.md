@@ -2,24 +2,102 @@
 
 ###
 
-<p align="left">Desenvolvedora em formação e futura cientista de dados, movida por curiosidade, criatividade e a vontade de transformar ideias em soluções reais. Tenho paixão por tecnologia, games, artesanato, animais e todo o universo geek que desperta a imaginação.<br>
+<p align="left">Desenvolvedora Full-Stack em formação, apaixonada por construir aplicações orientadas a produto que combinam arquitetura limpa, performance e experiência do usuário.
+
+Gosto de transformar ideias em soluções funcionais — não apenas escrever código, mas entender como a tecnologia gera valor real para os usuários.</p>
+
+###
+
+<h2>🚀 No que eu foco</h2>
+
+<ul>
+  <li>Projetar e desenvolver aplicações web full-stack</li>
+
+  <li>Construir APIs REST e serviços backend escaláveis</li>
   
-  <br> Atualmente estou me aprofundando em análise de dados, aprendizado de máquina e inteligência artificial, com foco especial em Python, minha linguagem de estudo mais frequente. Tive a oportunidade de colaborar em projetos de desenvolvimento com amigos, atuando em testes e depuração de aplicações. Apesar da minha jornada ter começado no desenvolvimento web, foi no mundo dos dados que encontrei meu caminho.<br>
+  <li>Criar interfaces intuitivas e responsivas</li>
   
-  <br>Sou estudante do 4º período de Análise e Desenvolvimento de Sistemas e membro ativa da comunidade Impressionadora da Hashtag Treinamentos, sempre buscando aprender mais, evoluir e descobrir novas formas de criar impacto.<br>
+  <li>Escrever código organizado, sustentável e de fácil manutenção</li>
+  
+  <li>Colaborar em ambientes ágeis e orientados a produto</li>
+</ul>
+
+###
+
+<h2>🛠 Stack Tecnológica</h2>
+
+<h3>Frontend</h3>
+<p>React | TypeScript | JavaScript | HTML | CSS</p>
+
+<h3>Backend</h3>
+<p>Node.js | Express | Python</p>
+
+<h3>Banco de Dados</h3>
+<p>PostgreSQL | MySQL</p>
+
+<h3>Ferramentas & Práticas</h3>
+<p>Git | GitHub | APIs REST | SQL | Clean Code | Metodologias Ágeis</p>
+
+###
+
+<h2>📌 Atualmente aprimorando</h2>
+
+<ul>
+  <li>Fundamentos de system design</li>
+  <li>Estratégias de testes (unitários e integração</li>
+  <li>Padrões de arquitetura de software</li>
+  <li>Otimização de performance</li>
+</ul>
+
+###
+
+<h2>🌱 Sobre mim</h2>
+
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas e estou constantemente desenvolvendo projetos para fortalecer minhas habilidades em engenharia de software.
+
+Meu objetivo é evoluir como desenvolvedora full-stack em times onde tecnologia e produto caminham juntos.</p>
+
+###
+
+<h2>📫 Vamos nos conectar!</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/natresmaciel/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 
 <br>Bem-vindos ao meu espaço!<br>
 <br>Espero que possamos construir coisas incríveis juntos.<br>
 
 <br>In English: Hi! I'm Natália Rosa!<br>
 
-<br>A developer in training and future data scientist, driven by curiosity, creativity, and the desire to turn ideas into real solutions. I’m passionate about technology, games, crafts, animals, and the whole geek universe that sparks imagination.<br>
+<br>Full-Stack Developer in progress, passionate about building product-driven applications that combine clean architecture, performance, and user experience.
 
-<br>I’m currently diving deep into data analysis, machine learning, and artificial intelligence, with a special focus on Python, the language I study the most. I’ve had the opportunity to collaborate on development projects with friends, working on testing and debugging applications. Although my journey began in web development, it was in the world of data that I truly found my path.<br>
+I enjoy transforming ideas into functional solutions — not just writing code, but understanding how technology creates value for users.<br>
 
-<br>I’m a 4th-semester Systems Analysis and Development student and an active member of the Impressionadora community by Hashtag Treinamentos, always seeking to learn more, grow, and discover new ways to make an impact.<br>
+###
 
-<br>Welcome to my space!<br>
+<h2>🚀 What I Focus On</h2>
+
+<ul>
+  <li>Designing and developing full-stack web applications</li>
+
+  <li>Building REST APIs and scalable backend services</li>
+  
+  <li>Creating intuitive and responsive frontends</li>
+  
+  <li>Writing maintainable and well-structured code</li>
+  
+  <li>Collaborating in agile and product-oriented environments</li>
+</ul>
+
+<h2>🌱 About Me</h2>
+
+<p>I'm currently studying Systems Analysis and Development and continuously building projects to strengthen my engineering skills.<br>
+
+My goal is to grow as a full-stack engineer in teams where technology and product walk side by side.</p>
+
+<p><br>Welcome to my space!<br>
 <br>I hope we can build amazing things together.<br></p>
 
 ###
@@ -34,31 +112,39 @@
 ###
 
 
-<h1 align="left">Tecnologias e linguagens 💻</h1>
-
-###
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  
+<h3>Frontend</h3>
+React | TypeScript | JavaScript | HTML | CSS
+
+<h3>Backend</h3>
+Node.js | Express | Python
+
+<h3>Database</h3>
+PostgreSQL | MySQL
+
+<h3>Tools & Practices</h3>
+Git | GitHub | REST APIs | SQL | Clean Code | Agile
 </div>
 
 ###
+
+<h2>📌 Currently Improving</h2>
+
+<ul>
+  <li>System design fundamentals</li>
+
+  <li>Testing strategies (unit & integration)</li>
+  
+  <li>Software architecture patterns</li>
+  
+  <li>Performance optimization</li>
+</ul>
+###
+
+<h2>📫 Let's Connect!</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/natresmaciel/" target="_blank">
