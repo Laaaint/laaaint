@@ -101,15 +101,6 @@ My goal is to grow as a full-stack engineer in teams where technology and produc
 <br>I hope we can build amazing things together.<br></p>
 
 ###
----
-## 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=laaaint&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaaint&layout=compact&theme=radical" />
-</p>
-
-
-###
 
 
 <h2 align="left">🛠 Tech Stack</h2>
